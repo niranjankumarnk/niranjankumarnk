@@ -26,11 +26,14 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
-
-
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about ME...***
+- 😄  Pronouns: He/His
+- :trophy: UC Berkeley Generative AI Hackathon Winner.
 - 🌱 I’m currently learning **LLM's , Gen AI**
-
+- 🔭: I’m currently working on end to end ML projects.
+- 💬: Ask me about Machine Learning algorithms. 📊📈🤖🧠
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
 - 📫 How to reach me **nkniranjankumar27@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niranjankumarnk&label=Profile%20views&color=0e75b6&style=flat" alt="niranjankumarnk" /> </p>
