@@ -38,26 +38,43 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niranjankumarnk&label=Profile%20views&color=0e75b6&style=flat" alt="niranjankumarnk" /> </p>
 
+<hr>
+
+<!---
+
+kaustav202/kaustav202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+
+--->
+
+
+</br>
+
+
+<table width="100%" >
+
+ <tr>
+    <td width="60%">
+
+## 🛠️ Skills
+
+#### Languages
+
+<p align="center">
+  &emsp;
+     <a href="#"><img src="https://img.shields.io/badge/python-%234479A1.svg?&style=plastic&logo=python&logoColor=white"/></a>
+  &emsp;
+    <a href="#"><img alt="R" src="https://img.shields.io/badge/R-%23232F3E.svg?style=plastic&logo=R&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="C++" src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C"></a>
+  &emsp;
+    <a href="#"><img alt="MATLAB" src="https://img.shields.io/badge/Matlab-121011?style=flat&logo=gnu-bash&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-276DC3?style=flat&logo=sql&logoColor=blue&color=0B2C4A"></a>
 </p>
 
-## 🛠️ My Skills
 
-### <picture> <img src = "https://github.com/7oSkaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
-
-<p align="center"> 
-  &emsp;
-  <a href="#"><img alt="Matlab" src="https://img.shields.io/badge/Matlab-%2300A5E0.svg?style=plastic&logo=matlab&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="R" src="https://img.shields.io/badge/R-%23276DC3.svg?style=plastic&logo=r&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-%2300f.svg?style=plastic&logo=sql&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"></a>
-</p>
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Framework and Libraries
+####  Framework and Libraries
 </p>
 
 <p style="display: inline-block;" align="center">
@@ -75,7 +92,7 @@
     <img width="80px" src="https://img.shields.io/badge/numpy-%23007396.svg?style=plastic&logo=numpy&logoColor=white" />
     <img width="80px" src="https://img.shields.io/badge/pandas-%23007396.svg?style=plastic&logo=pandas&logoColor=white" />
     <img width="80px" src="https://img.shields.io/badge/scikit-learn-%23007396.svg?style=plastic&logo=scikit-learn&logoColor=orange" />
-    <img width="80px" src="https://img.shields.io/badge/scipy-%23007396.svg?style=plastic&logo=scipy&logoColor=white" />
+    <img width="60px" src="https://img.shields.io/badge/scipy-%23007396.svg?style=plastic&logo=scipy&logoColor=white" />
     <img width="60px" src="https://img.shields.io/badge/Tensorflow-%23007396.svg?style=plastic&logo=Tensorflow&logoColor=white" />
     <img width="60px" src="https://img.shields.io/badge/XGBoost-%23007396.svg?style=plastic&logo=XGBoost-&logoColor=white" />
     <img width="60px" src="https://img.shields.io/badge/Statsmodel-%23007396.svg?style=plastic&logo=Statsmodel-&logoColor=white" />
@@ -93,8 +110,19 @@
   <kbd>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> IDE Software & Tools
- 
+
+
+#### Database & Cloud
+
+<p align="center">
+  &emsp;
+     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
+  &emsp;
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=plastic&logo=amazon-aws&logoColor=white"></a>
+</p>
+
+#### IDE Software & Tools
+
 <p align="center">
   &emsp;
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
@@ -120,76 +148,43 @@
     <a href="#"><img src="https://img.shields.io/badge/arduino-%23008080.svg?&style=plastic&logo=arduino&logoColor=white" /></a>
   
 </p>
-    
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> DataBase & Cloud
- 
-<p align="center">
-  &emsp;
-     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
-  &emsp;
-    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=plastic&logo=amazon-aws&logoColor=white"></a>
-</p>
+<!-- ![PyPI](https://img.shields.io/badge/pypi-3775A9?style=flat&logo=pypi&logoColor=white)&nbsp; -->
 
-
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white" /></a>
-</p>
-
-<details>
-<summary><b>Github Activity ✔:</b></summary>
-
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
-
-<!--- stats & Trophy (start) -->
-
-<p align="left">
-  <!--- stats (start) -->
-<table align="left">
-<tr border="none">
-<td width="50%" align="center">
-  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=niranjankumarnk&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=niranjankumarnk&theme=dark&hide_border=false" /> 
 </td>
+    <td>
+  
+## 📄📜 Stats
 
 
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=niranjankumarnk&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
-
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=niranjankumarnk&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
+ </br>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=niranjankumarnk"/>
+ </br>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjankumarnk&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
+</p>
+     
   </td>
-</tr>
+ </tr>
 </table>
-<!--- stats (end) -->
 
-<!--- trophy (start) -->
 
-<div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=niranjankumarnk&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
 
-<!--- trophy (start) -->
-</p>        
-<!--- stats (end) -->
 
-<br>
 
-<!--profile visit count-->
 
-<div align="center">
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 [![](https://visitcount.itsvg.in/api?id=niranjankumarnk&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
