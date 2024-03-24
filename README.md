@@ -36,13 +36,11 @@
 - :boom: You can visit [MY WEBSITE]().
 - 📫 How to reach me **nkniranjankumar27@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niranjankumarnk&label=Profile%20views&color=0e75b6&style=flat" alt="niranjankumarnk" /> </p>
-
 <hr>
 
 <!---
 
-kaustav202/kaustav202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+niranjankumarnk/niranjankumarnk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
 --->
@@ -170,7 +168,14 @@ You can click the Preview link to take a look at your changes.
 
 
 
+<!--Dynamic Quote card updated everyday at 12 PM--> 
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?quote=Success%20is%20not%20final,%20failure%20is%20not%20fatal:%20It%20is%20the%20courage%20to%20continue%20that%20counts.&author=Winston%20S.%20Churchill&theme=dark&bg_color=011627&author_color=ffeb95">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
 
 
 
