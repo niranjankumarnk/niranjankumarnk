@@ -32,8 +32,8 @@
 - 🌱 I’m currently learning **LLM's , Gen AI**
 - 🔭: I’m currently working on end to end ML projects.
 - 💬: Ask me about Machine Learning algorithms. 📊📈🤖🧠
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
+- :boom: You can visit [MY WEBSITE]().
 - 📫 How to reach me **nkniranjankumar27@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niranjankumarnk&label=Profile%20views&color=0e75b6&style=flat" alt="niranjankumarnk" /> </p>
@@ -42,7 +42,7 @@
 
 ## 🛠️ My Skills
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+### <picture> <img src = "https://github.com/7oSkaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
 <p align="center"> 
   &emsp;
@@ -146,9 +146,23 @@
     <a href="#"><img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white" /></a>
 </p>
 
+<details>
+<summary>Github Activity ✔:</summary>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niranjankumarnk&show_icons=true&locale=en&layout=compact" alt="niranjankumarnk" /></p>
+<a href="https://github.com/niranjankumarnk">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niranjankumarnk&show_icons=true&locale=en&layout=compact" alt="niranjankumarnk" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niranjankumarnk&" alt="niranjankumarnk" /></p>
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niranjankumarnk&show_icons=true&locale=en" alt="niranjankumarnk" /></p>
+<a href="https://github.com/niranjankumarnk">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=niranjankumarnk&show_icons=true&theme=tokyonight&line_height=27" alt="Niranjan's github stats"/>
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niranjankumarnk&" alt="niranjankumarnk" /></p>
+<br/>
+<br/>
+<br/>
+
+</details>
+
+
+
