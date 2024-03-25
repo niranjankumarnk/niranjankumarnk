@@ -6,8 +6,6 @@
 <h3 align="center">AI | Data Scientist |Biomedical Engineer</h3>
 <p align="center">
 <a href="https://linkedin.com/in/niranjan-kumar-k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niranjan-kumar-k/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@chowrasia_akash1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@chowrasia_akash1" height="30" width="40" /></a>
-<a href="https://leetcode.com/Akash_Chowrasia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="akash_chowrasia" height="30" width="40" /></a>
 <a href="https://instagram.com/niranjan_kumar_nk_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niranjan_kumar_nk_" height="30" width="40" /></a>
  <a href = "mailto: nkniranjankumar27@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
