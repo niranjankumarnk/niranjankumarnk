@@ -30,7 +30,7 @@
 - 🌱 I’m currently learning **LLM's , Gen AI**
 - 🔭: I’m currently working on end to end ML projects.
 - 💬: Ask me about Machine Learning algorithms. 📊📈🤖🧠
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](file:///C:/Users/Niranjan%20kumar/Desktop/NK/DOCUMENTS/resume%20new/Niranjan_Kumar_Kishore_Kumar_Resume%20(ML%20engineer).pdf).
+- :thinking: I’m currently open for a new `job opportunity`, this is <a href="file:///C:/Users/Niranjan%20kumar/Desktop/NK/DOCUMENTS/resume%20new/Niranjan_Kumar_Kishore_Kumar_Resume%20(ML%20engineer).pdf"> <b>[MY RESUME]</b></a>.
 - :boom: You can visit [MY WEBSITE]().
 - 📫 How to reach me **nkniranjankumar27@gmail.com**
 
