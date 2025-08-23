@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Niranjan Kumar</h1>
-<h3 align="center">AI | Data Scientist |Biomedical Engineer</h3>
+<h3 align="center">AI | Data Scientist |Biomedical Engineer|PhD Researcher</h3>
 <p align="center">
 <a href="https://linkedin.com/in/niranjan-kumar-k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niranjan-kumar-k/" height="30" width="40" /></a>
 <a href="https://instagram.com/niranjan_kumar_nk_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niranjan_kumar_nk_" height="30" width="40" /></a>
@@ -15,9 +15,25 @@
 
 <p align="center">
   <em>
-    This is ME, Niranjan Kumar, a <b>Master</b> Graduate from <a href="https://www.yu.edu/katz"> <b>Yeshiva University (Katz School of Science and Health )</b>, New York</a>. <br>
-    I'm unique blend of expertise in  <b>Artificial Intelligence (AI)</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b> Biomedical Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br> positions me as a valuable asset in the development of healthcare applications powered by AI. With my deep understanding of both the biological aspects of <b>healthcare</b> and the technical intricacies of <b>AI algorithms</b>, I'm well-equipped to tackle complex challenges and drive innovation in the industry <b>improving</b> myself and wants a <b>platform</b> to <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
-  </em> 
+  This is ME, Niranjan Kumar, a <b>Master</b> Graduate from 
+  <a href="https://www.yu.edu/katz"> <b>Yeshiva University (Katz School of Science and Health)</b>, New York</a> 
+  and currently pursuing my <b>PhD</b> in <b>Artificial Intelligence & Biomedical Applications</b> at 
+  <a href="https://www.binghamton.edu/watson/"> <b>Binghamton University (Thomas J. Watson College of Engineering and Applied Science)</b></a>. <br><br>
+  
+  I'm a unique blend of expertise in <b>Artificial Intelligence (AI)</b> 
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 
+  and a <b>Biomedical Engineer</b>&nbsp;
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp;,<br>
+  
+  which positions me as a valuable asset in the development of <b>AI-powered healthcare applications</b>.  
+  With my deep understanding of both the <b>biological aspects of healthcare</b> and the technical intricacies of <b>AI algorithms</b>,  
+  I'm well-equipped to tackle complex challenges and drive innovation in the industry.  
+
+  Continuously <b>improving</b> myself and seeking a <b>platform</b> to <b>grow</b> 
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
+  and <b>excel</b> 
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+</em> 
   <br>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Progressing with PASSION and PERSISTENCE!!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
