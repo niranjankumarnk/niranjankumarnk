@@ -41,14 +41,20 @@
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about ME...***
-- 😄  Pronouns: He/His
-- :trophy: UC Berkeley Generative AI Hackathon Winner.
-- 🌱 I’m currently learning **LLM's , Gen AI**
-- 🔭: I’m currently working on end to end ML projects.
-- 💬: Ask me about Machine Learning algorithms. 📊📈🤖🧠
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/niranjankumarnk/MYRESUME/raw/main/Niranjan%20Kumar's%20CV.docx).
-- :boom: You can visit [MY WEBSITE](https://niranjankumarnk.github.io/Niranjankumar.github.io/).    
-- 📫 How to reach me **nkniranjankumar27@gmail.com**
+
+- 😄 Pronouns: **He/Him**
+- 🎓 **PhD Student in Artificial Intelligence & Biomedical Applications** at [Binghamton University](https://www.binghamton.edu/watson/)  
+- 🎓 **Master’s Graduate** from [Yeshiva University – Katz School of Science and Health](https://www.yu.edu/katz), New York  
+- 🏆 **UC Berkeley Generative AI Hackathon Winner** + several other AI Hackathon achievements  
+- 🌱 Currently learning & building with **LLMs, Generative AI, and Agentic AI**  
+- 🔬 **Research Focus**: Drug discovery & cancer research using **Computer Vision, Deep Learning, and Generative AI**  
+- 🔭 Working on **end-to-end ML pipelines, AI-powered healthcare apps, and predictive maintenance systems**  
+- 💬 Ask me about: **Machine Learning, NLP, Computer Vision, Generative AI, Biomedical AI** 📊📈🤖🧬  
+- 🤝 I’m open to exciting **AI/ML job opportunities, collaborations, and research projects**  
+- 📄 Here’s my **[Resume](https://github.com/niranjankumarnk/MYRESUME/raw/main/Niranjan%20Kumar's%20CV.docx)**  
+- 🌐 Visit my **[Website](https://niranjankumarnk.github.io/Niranjankumar.github.io/)**  
+- 📫 Reach me at **nkniranjankumar27@gmail.com**  
+- ⚡ Fun fact: I combine **biomedical engineering 🧬** and **AI 🤖** to create meaningful impact in **healthcare innovation** 🚀  
 
 <hr>
 
